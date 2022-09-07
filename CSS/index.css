@@ -31,4 +31,8 @@ main{
 	max-width: 800px;
 }
 
+main img{
+	max-width: 100%;
+}
+
 
