@@ -2,14 +2,13 @@ body{
 	margin:0;
 	font-family: Samsung Sharp Sans, Helvetica;
 	line-height: 30px;
-
 }
 
 
 header{
 	background-color: #b2a1cd;
 	text-align: center; 
-	padding-top: 40px;
+	padding-top: 50px;
 	padding-bottom: 20px;
 }
 
@@ -45,17 +44,15 @@ a:hover{
 }
 
 
-
 footer{
-	margin: 120px;
 	background-color: #b2a1cd;
 	text-align: center; 
 	color: white;
-
 }
 
 footer a{
-	color: white;
+	color: black
+	background-color: transparent;
 }
 
 
