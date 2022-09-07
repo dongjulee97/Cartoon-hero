@@ -35,10 +35,11 @@ main img{
 	width: 100%;
 }
 
-p{
-	font-weight: bold;
+p.caption{
+	color: #999999;
+	font-style: italic;
+	margin: 0px;
 }
-
 
 
 
@@ -62,7 +63,7 @@ footer p{
 }
 
 footer a{
-	color: black
+	color: black;
 	background-color: transparent;
 }
 
