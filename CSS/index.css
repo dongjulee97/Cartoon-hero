@@ -15,7 +15,8 @@ h1, h2{font-family: Samsung Sharp Sans, Helvetica}
 
 
 header img{
-	height: 840px;	
+	width: 80%;	
+	margin: 80px;
 }
 
 
@@ -30,7 +31,8 @@ main{
 }
 
 main img{
-	max-width: 1260px;
+	width: 100%;
+	margin: 80px;
 }
 
 h2{
