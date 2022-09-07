@@ -1,12 +1,20 @@
 body{
 	margin: 40;
+	margin-top: 20;
+
 }
 
 header{
 	background-color: #b2a1cd;
 	text-align: center; 
+	margin-bottom: 10;
 }
 
 header h1{
 	color:white;
+}
+
+header img{
+	height: 500px;
+	
 }
