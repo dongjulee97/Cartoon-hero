@@ -57,6 +57,10 @@ footer{
 	color: white;
 }
 
+footer p{
+	margin: 0px;
+}
+
 footer a{
 	color: black
 	background-color: transparent;
