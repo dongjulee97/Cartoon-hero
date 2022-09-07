@@ -1,7 +1,6 @@
 body{
 	margin: 40;
 	font-family: Samsung Sharp Sans, Helvetica;
-
 }
 
 
@@ -12,15 +11,15 @@ header{
 	padding-bottom: 50px;
 }
 
+h1, h2{font-family: Samsung Sharp Sans, Helvetica}
 
 header img{
-	height: 500px;	
+	height: 800px;	
 }
 
 
 header h1{
 	color:white;
-	font-family: Samsung Sharp Sans, Helvetica;
 }
 
 
