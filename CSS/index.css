@@ -26,12 +26,17 @@ header h1{
 
 main{
 	max-width: 800px;
-	margin:0 auto;
-	padding:20px;
+	margin:80px;
 }
 
 main img{
-	max-width: 100%;
+	max-width: 1260px;
 }
+
+h2{
+	font-size: 35px;
+	color: #b2a1cd;
+}
+
 
 
